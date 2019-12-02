@@ -1,0 +1,2 @@
+# FixMe
+This is a group project that implements a routing server, market and  two clients... once the router is on thats when market can be connected to router and passes messages from router to market and get the special ID ... same as when client it has to connect through market nd get their special ID to login ...after that there can be a conversation between market and client whether they sell or trade their stuff
